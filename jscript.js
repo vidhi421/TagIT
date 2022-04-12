@@ -51,16 +51,3 @@ document.getElementById("flexCheckDefault").onclick = function(){
     }
 }
 
-// var htmleditor = CodeMirror.fromTextArea(document.querySelector(".editor #containerId"),{
-//     mode:"xml",
-//     lineNumbers:true,
-//     autoCloseTags:true
-// });
-// var csseditor = CodeMirror.fromTextArea(document.querySelector(".editor #containerId"),{
-//     mode:"css",
-//     lineNumbers:true,
-// });
-// var jseditor = CodeMirror.fromTextArea(document.querySelector(".editor #containerId"),{
-//     mode:"javascript",
-//     lineNumbers:true,
-// });
